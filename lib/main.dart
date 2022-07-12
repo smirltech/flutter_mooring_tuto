@@ -4,7 +4,7 @@ import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 import 'package:mooring/controllers/tasks_controller.dart';
 
-import 'data/moor_database.dart';
+import 'data/drift_database.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
